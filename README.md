@@ -8,3 +8,4 @@ I will be using this to showcase my projects.
 
 ##screenshort. 
  
+![gc-deployed](https://user-images.githubusercontent.com/99712115/173006038-b03e6627-8f89-4714-afcd-ed4d657cbf50.png)
