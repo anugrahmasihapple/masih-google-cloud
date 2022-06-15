@@ -4,8 +4,9 @@
 This  portfolio is a small project using HTML / CSS and Bootstrap.
 I will be using this to showcase my projects.
 
-[Live GCP Deployment] (https://django-deployment-352905.el.r.appspot.com/)
-[Live GCP Deployment] (https://django-masih.el.r.appspot.com/)
+1.[Live GCP Deployment] (https://django-deployment-352905.el.r.appspot.com/)
+
+2.[Live GCP Deployment] (https://django-masih.el.r.appspot.com/)
 
 
 ##screenshort. 
